@@ -1,0 +1,37 @@
+body{
+    background-color:#33cc33;
+}
+div.center {
+
+    background-color:#ffffff ;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    
+}
+img.center {
+     display: flex;
+    background-color:#ffffff ;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    
+}
+div.left{
+    width: 30%;
+    float: left;
+}
+div.right{
+    width: 70%;
+    float: left;
+}
+div.container{
+
+    border-width: 5px;
+    border-color: black;
+    display: flex;
+    width: 100%;
+}
+img.house{
+    width: 240px;
+}

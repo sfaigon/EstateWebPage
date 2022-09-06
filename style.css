@@ -1,0 +1,42 @@
+body{
+    background-color:#33cc33;
+}
+div.center {
+
+    background-color:#ffffff ;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    
+}
+img.center {
+     display: flex;
+    background-color:#ffffff ;
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    
+}
+div.left{
+    display: flex;
+    width: 30%;
+    float: left;
+}
+div.right{
+    width: 70%;
+    float: left;
+    padding left: 4px;
+}
+div.container{
+    border-style: inset;
+    border-width: 5px;
+    border-color: black;
+    display: flex;
+    width: 98%;
+}
+img.house{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 236px;
+    height: 132.6px;
+}
